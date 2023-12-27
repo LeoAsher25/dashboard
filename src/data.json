@@ -1,0 +1,191 @@
+{
+  "overview": [
+    {
+      "text": "Total sales orders",
+      "image": "./img/box.svg",
+      "isWarning": true,
+      "value": 0
+    },
+    {
+      "text": "Tổng đơn hàng hoàn trả",
+      "image": "./img/booking.svg",
+      "isWarning": true,
+      "value": 0
+    },
+    {
+      "text": "Total product costs",
+      "image": "./img/money.svg",
+      "isWarning": true,
+      "value": 0
+    },
+    {
+      "text": "Gross sales",
+      "image": "./img/profit.svg",
+      "isWarning": true,
+      "value": 0
+    },
+    {
+      "text": "Gross profit",
+      "image": "./img/profit_chart.svg",
+      "isWarning": true,
+      "value": 0
+    }
+  ],
+  "chartData": {
+    "labels": [
+      "Store 1",
+      "Store 2",
+      "Store 3",
+      "Store 4",
+      "Store 5",
+      "Store 6",
+      "Store 7",
+      "Store 8"
+    ],
+    "data": [399.9, 850.5, 630.5, 250.5, 420.5, 900.5, 810.5, 310.5]
+  },
+  "topSelling": [
+    {
+      "image": "./img/2.png",
+      "name": "Ciara Single Bed",
+      "store": 80,
+      "website": 70,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/3.png",
+      "name": "Avenue Round 1100 Dining Table",
+      "store": 70,
+      "website": 60,
+      "ecommerce": 60
+    },
+    {
+      "image": "./img/4.png",
+      "name": "Ausfile Stationery 1830 High Adjustable 3 Shelves Cupboard",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Eclipse Banksia 18 Hole Pigeon Hole Unit",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/2.png",
+      "name": "Ciara Single Bed",
+      "store": 80,
+      "website": 70,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/2.png",
+      "name": "Avenue Round 1100 Dining Table",
+      "store": 70,
+      "website": 60,
+      "ecommerce": 60
+    },
+    {
+      "image": "./img/2.png",
+      "name": "Ausfile Stationery 1830 High Adjustable 3 Shelves Cupboard",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/2.png",
+      "name": "Eclipse Banksia 18 Hole Pigeon Hole Unit",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/2.png",
+      "name": "Ausfile Stationery 1830 High Adjustable 3 Shelves Cupboard",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/2.png",
+      "name": "Eclipse Banksia 18 Hole Pigeon Hole Unit",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    }
+  ],
+  "benefitProducts": [
+    {
+      "image": "./img/1.png",
+      "name": "Ciara Single Bed",
+      "store": 80,
+      "website": 70,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Avenue Round 1100 Dining Table",
+      "store": 70,
+      "website": 60,
+      "ecommerce": 60
+    },
+    {
+      "image": "./img/4.png",
+      "name": "Ausfile Stationery 1830 High Adjustable 3 Shelves Cupboard",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/4.png",
+      "name": "Eclipse Banksia 18 Hole Pigeon Hole Unit",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Ciara Single Bed",
+      "store": 80,
+      "website": 70,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Avenue Round 1100 Dining Table",
+      "store": 70,
+      "website": 60,
+      "ecommerce": 60
+    },
+    {
+      "image": "./img/4.png",
+      "name": "Ausfile Stationery 1830 High Adjustable 3 Shelves Cupboard",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Eclipse Banksia 18 Hole Pigeon Hole Unit",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Ausfile Stationery 1830 High Adjustable 3 Shelves Cupboard",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    },
+    {
+      "image": "./img/1.png",
+      "name": "Eclipse Banksia 18 Hole Pigeon Hole Unit",
+      "store": 60,
+      "website": 50,
+      "ecommerce": 70
+    }
+  ]
+}
